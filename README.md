@@ -1,0 +1,2 @@
+# pythagorean-triplet-main
+ 
